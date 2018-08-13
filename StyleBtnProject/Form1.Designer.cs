@@ -55,11 +55,11 @@
             // styleableButton1
             // 
             this.styleableButton1.BackColor = System.Drawing.Color.Red;
-            this.styleableButton1.Font = new System.Drawing.Font("メイリオ", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.styleableButton1.Font = new System.Drawing.Font("メイリオ", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
             this.styleableButton1.Location = new System.Drawing.Point(12, 50);
             this.styleableButton1.Name = "styleableButton1";
             this.styleableButton1.Size = new System.Drawing.Size(75, 23);
-            this.styleableButton1.StylePattern = StyleBtnProject.StyleableButton.StylePatternEnum.none;
+            this.styleableButton1.StylePattern = StyleBtnProject.StyleableButton.StylePatternEnum.None;
             this.styleableButton1.TabIndex = 1;
             this.styleableButton1.Text = "テスト";
             this.styleableButton1.UseVisualStyleBackColor = true;
@@ -67,10 +67,11 @@
             // 
             // styleableButton2
             // 
+            this.styleableButton2.Font = new System.Drawing.Font("メイリオ", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
             this.styleableButton2.Location = new System.Drawing.Point(12, 94);
             this.styleableButton2.Name = "styleableButton2";
             this.styleableButton2.Size = new System.Drawing.Size(75, 23);
-            this.styleableButton2.StylePattern = StyleBtnProject.StyleableButton.StylePatternEnum.none;
+            this.styleableButton2.StylePattern = StyleBtnProject.StyleableButton.StylePatternEnum.None;
             this.styleableButton2.TabIndex = 3;
             this.styleableButton2.Text = "styleableButton2";
             this.styleableButton2.UseVisualStyleBackColor = true;

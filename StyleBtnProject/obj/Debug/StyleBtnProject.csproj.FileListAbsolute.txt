@@ -9,3 +9,14 @@ C:\Users\xiaot\source\repos\StyleBtnProject\StyleBtnProject\obj\Debug\StyleBtnPr
 C:\Users\xiaot\source\repos\StyleBtnProject\StyleBtnProject\obj\Debug\StyleBtnProject.pdb
 C:\Users\xiaot\source\repos\StyleBtnProject\StyleBtnProject\obj\Debug\StyleBtnProject.Form1.resources
 C:\Users\xiaot\source\repos\StyleBtnProject\StyleBtnProject\obj\Debug\StyleBtnProject.StyleableButton.resources
+C:\Users\xiaot\source\repos\StyleableButton\StyleBtnProject\bin\Debug\StyleBtnProject.exe.config
+C:\Users\xiaot\source\repos\StyleableButton\StyleBtnProject\bin\Debug\StyleBtnProject.exe
+C:\Users\xiaot\source\repos\StyleableButton\StyleBtnProject\bin\Debug\StyleBtnProject.pdb
+C:\Users\xiaot\source\repos\StyleableButton\StyleBtnProject\obj\Debug\StyleBtnProject.csprojAssemblyReference.cache
+C:\Users\xiaot\source\repos\StyleableButton\StyleBtnProject\obj\Debug\StyleBtnProject.Form1.resources
+C:\Users\xiaot\source\repos\StyleableButton\StyleBtnProject\obj\Debug\StyleBtnProject.Properties.Resources.resources
+C:\Users\xiaot\source\repos\StyleableButton\StyleBtnProject\obj\Debug\StyleBtnProject.StyleableButton.resources
+C:\Users\xiaot\source\repos\StyleableButton\StyleBtnProject\obj\Debug\StyleBtnProject.csproj.GenerateResource.cache
+C:\Users\xiaot\source\repos\StyleableButton\StyleBtnProject\obj\Debug\StyleBtnProject.csproj.CoreCompileInputs.cache
+C:\Users\xiaot\source\repos\StyleableButton\StyleBtnProject\obj\Debug\StyleBtnProject.exe
+C:\Users\xiaot\source\repos\StyleableButton\StyleBtnProject\obj\Debug\StyleBtnProject.pdb
